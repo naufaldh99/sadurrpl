@@ -1,0 +1,8 @@
+Nim : 1811500062
+Nama : Naufal Dhiaulhaq
+Kelas : TI6J
+
+hasil saya menyadur:
+1) Nilai tugas akan dilihat dari kualitas tugas yang dikumpulkan
+2) Pentingnya Etika yang berbudi luhur selain dari ilmu yang di dapat
+3) Materi di sampikan agar membuat sebuah repository yang saya tangkap pak yohanes ingin membiasakan kita menggunakan repository github
